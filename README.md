@@ -7,7 +7,6 @@ Currently maintained/active Projects:
 - [Desub](https://github.com/paritytech/desub)
 - [polkadot-rewards](https://github.com/paritytech/polkadot-rewards)
 - [Ergo](https://github.com/insipx/Ergo)
-- 
 
 
 <!--
