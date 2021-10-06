@@ -2,9 +2,9 @@ Hi There 🌴
 
 [![Insipx's github stats](https://github-readme-stats.vercel.app/api?username=insipx)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently maintained/active Projects:
+Currently maintained/active projects:
 - [Substrate Archive](https://github.com/paritytech/substrate-archive)
-- [Desub](https://github.com/paritytech/desub)
+- [desub](https://github.com/paritytech/desub)
 - [polkadot-rewards](https://github.com/insipx/polkadot-rewards)
 - [Ergo](https://github.com/insipx/Ergo)
 
