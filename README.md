@@ -5,6 +5,7 @@ Hi There 🌴
 Currently maintained/active projects:
 - [polkadot-rewards](https://github.com/insipx/polkadot-rewards)
 - [Ergo](https://github.com/insipx/Ergo)
+- [my Neovim config](https://github.com/insipx/insipx-nvim)
 
 
 <!--
