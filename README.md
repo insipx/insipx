@@ -6,8 +6,7 @@ Currently maintained/active projects:
 - [polkadot-rewards](https://github.com/insipx/polkadot-rewards)
 - [Ergo](https://github.com/insipx/Ergo)
 - [my Neovim config](https://github.com/insipx/insipx-nvim)
-
-
+- [home.nix](https://github.com/insipx/home.nix)
 <!--
 **insipx/insipx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
