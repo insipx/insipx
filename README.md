@@ -5,8 +5,10 @@ Hi There 🌴
 Currently maintained/active projects:
 - [polkadot-rewards](https://github.com/insipx/polkadot-rewards)
 - [Ergo](https://github.com/insipx/Ergo)
-- [home.nix](https://github.com/insipx/home.nix)
+- [home.nix](https://github.com/insipx/home.nix) machine configuration
 - [coding environments (nix)](https://github.com/insipx/environments)
+- [ec2autostop](https://github.com/insipx/ec2autostop) lambda to autostop ec2 instances after a period of inactivity
+- [jupiter](https://github.com/insipx/jupiter) Homelab definitions in nix & kubenix
 <!--
 **insipx/insipx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
