@@ -1,6 +1,3 @@
-Hi There 🌴
-
-[![Insipx's github stats](https://github-readme-stats.vercel.app/api?username=insipx)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently maintained/active projects:
 - [home.nix](https://github.com/insipx/home.nix) machine configuration
