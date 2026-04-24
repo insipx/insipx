@@ -3,8 +3,6 @@ Hi There 🌴
 [![Insipx's github stats](https://github-readme-stats.vercel.app/api?username=insipx)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently maintained/active projects:
-- [polkadot-rewards](https://github.com/insipx/polkadot-rewards)
-- [Ergo](https://github.com/insipx/Ergo)
 - [home.nix](https://github.com/insipx/home.nix) machine configuration
 - [coding environments (nix)](https://github.com/insipx/environments)
 - [ec2autostop](https://github.com/insipx/ec2autostop) lambda to autostop ec2 instances after a period of inactivity
